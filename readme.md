@@ -9,10 +9,10 @@ LICENSE: [MIT](./license.md)
 ## Содержание
 
 1. [Что такое Git и зачем он нужен?](./git.md)
-2. [git add](./add.md)
-3. [git commit](./commit.md)
-4. [git status](./status.md)
-5. [git log](./log.md)
+2. [Git add](./add.md)
+3. [Git commit](./commit.md)
+4. [Git status](./status.md)
+5. [Git log](./log.md)
 
 ---
 
