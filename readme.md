@@ -13,6 +13,11 @@ LICENSE: [MIT](./license.md)
 3. [Git commit](./commit.md)
 4. [Git status](./status.md)
 5. [Git log](./log.md)
+6. [Git checkout](./checkout.md)
+7. [Git push](./push.md)
+8. [Git reset](./reset.md)
+9. [Git revert](./revert.md)
+10. [Git clean](./clean.md)
 
 ---
 
